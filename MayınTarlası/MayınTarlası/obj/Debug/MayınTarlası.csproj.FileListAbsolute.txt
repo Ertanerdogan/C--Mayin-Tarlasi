@@ -1,0 +1,11 @@
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe.config
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.pdb
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csproj.AssemblyReference.cache
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.Form1.resources
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.Properties.Resources.resources
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csproj.GenerateResource.cache
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csproj.CoreCompileInputs.cache
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.exe
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.pdb
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.oyun.resources
